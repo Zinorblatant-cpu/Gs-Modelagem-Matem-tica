@@ -109,9 +109,9 @@ Este projeto permitiu aplicar conceitos de programação, matemática e visualiz
 ## 📁 Estrutura do Projeto
 
 ```
+README.md            # Este arquivo
 climatempo-desafio/
 │
-├── README.md            # Este arquivo
 ├── main.py              # Código-fonte principal
 ├── grafico_Tt.png       # Gráfico da função T(t)
 └── grafico_ex.png       # Gráfico da função e(x)
